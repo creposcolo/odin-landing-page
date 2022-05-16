@@ -1,1 +1,7 @@
 # odin-landing-page
+
+This is the final project for the Flexbox section of the Odin Project Foundations. I'll be coding a website from scratch (well, sort of... there's an image file that has a design template I'm supposed to follow, and some advice on colors, but the actual coding will be from scratch!).
+
+Hopefully when I'm done I'll have a reasonably solid grasp on both html and CSS including Flexbox and will be ready to move on to Javascript! It's been about a month since I started the Foundations course. I feel like I've been moving slower than I'd like what with the kid and all, but I'm proud of myself. The flex exercises went pretty well. Definitely harder than I thought they'd be to get right--I'd get the general idea down almost always but there was a lot of going back and futzing and messing up and just trial and error it felt like. I found that by the end, when I was checking my work, I'd have basically the right answer except certain things would be messier than the given solution. Like I'd make the exercise look exactly right except the solution would be one well-placed line of code and my answer would be four lines of code in different places to get the same effect. So hopefully this helps a bit.
+
+See you on the other side!
